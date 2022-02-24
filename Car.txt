@@ -2,3 +2,5 @@ Maruti
 XUV
 Honda
 Hyundai
+Tata Nano
+Ford
